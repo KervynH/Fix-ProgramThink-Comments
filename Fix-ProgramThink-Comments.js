@@ -1,5 +1,7 @@
 // ==UserScript==
 // @name Fix ProgramThink Comments
+// @author 热心网友
+// @description 修复编程随想博客评论区
 // @version 0.1
 // @match *://program-think.blogspot.com/*
 // @icon https://www.google.com/s2/favicons?sz=64&domain=blogspot.com
